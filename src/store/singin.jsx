@@ -2,7 +2,7 @@ import {createAsyncThunk,createSlice} from "@reduxjs/toolkit";
 import axios from "axios";
 
 
-const url = "https://e-commerce-backend-5p1b.onrender.com/signin" 
+const url = "https://e-commerce-backend-01vu.onrender.com/signin" 
 
 const initialState={
     userdata : null,
